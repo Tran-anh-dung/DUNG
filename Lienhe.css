@@ -1,0 +1,80 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    width: 980px;
+    
+}
+
+.lhe{
+    margin-left: 10px;
+}
+
+.lhe h1{
+color: blue;
+}
+
+form .f1 input{
+    width: 980px;
+    height: 35px;
+}
+
+form .f1 input:focus{
+    background-color: orange;
+}
+
+form .f2 input{
+    width: 980px;
+    height: 35px;
+
+}
+
+form .f2 input:focus{
+    background-color: orange;
+}
+
+form .f3 input{
+    width: 980px;
+    height: 35px;
+
+}
+form .f3 input:focus{
+    background-color: orange;
+}
+
+form .f4 select{
+    width: 980px;
+    height: 35px;
+    
+
+}
+
+form .f5 textarea{
+    width: 980px;
+}
+
+form .f6 button{
+    width: 980px;
+    color: white;
+    background-color: orange;
+    height: 40px;
+    font-size: 25px;
+    
+}
+
+form{
+    font-weight: bold;
+    line-height: 40px;
+    font-size: 20px;
+}
+
+.bdo .map iframe{
+    width: 980px;
+}
+
+.bdo .chu h1{
+    color: blue;
+}
+
+.bdo .chu p{
+    font-size: 20px;
+}

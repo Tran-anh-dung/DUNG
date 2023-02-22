@@ -1,0 +1,32 @@
+body{
+    margin: auto;
+    padding: 0;
+    width: 980px;
+}
+
+.chu{
+    margin-left: 20px
+}
+.chu h1, h2{
+    color: blue;
+}
+
+.chu h2{
+    font-size: 25px
+}
+
+.chu p{
+    font-size: 22px;
+}
+
+.chuki{
+    float: right;
+    font-size: 30px;
+}
+
+.chuki .ten{
+   margin-left: 165px;
+   font-size: 30px;
+   color: red;
+   margin-top: 60px;
+}

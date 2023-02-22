@@ -1,0 +1,237 @@
+.khung {
+  margin: auto;
+  width: 1300px;
+}
+header {
+  background-image: url(img/giao_dien.png);
+  padding-bottom: 20%;
+  background-size: 100% 100%;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-family: lato;
+  color: black;
+}
+/*endheader*/
+nav {
+  height: 40px;
+  background: red;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  float: left;
+  padding: 0 25px;
+  border-right: 1px solid white;
+}
+
+nav ul li:hover {
+  background: orange;
+}
+
+nav ul li a {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  font-family: roboto;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: bold;
+}
+
+nav .timkiem {
+  float: right;
+  line-height: 40px;
+}
+nav .timkiem input {
+  border-radius: 5px 0 0 5px;
+  border: none;
+  outline: none;
+  margin: 0px;
+  padding: 7px 10px;
+  width: 250px;
+}
+nav .timkiem button {
+  padding: 7px 10px;
+  border: none;
+  outline: none;
+  background: orange;
+  color: white;
+  margin-left: -5px;
+}
+/*endnav*/
+
+.than {
+  position: relative;
+  margin-bottom: 9px;
+  line-height: 30px;
+  width: 1300px;
+  height: 30px;
+  font-weight: 15px;
+  font-size: 20px;
+}
+
+.than .truong{
+  font-weight: bold;
+}
+
+.tin {
+  position: relative;
+  height: 50px;
+  background-color: gray;
+  color: white;
+  bottom: 8px;
+}
+.ttin {
+  position: absolute;
+  bottom: 5px;
+  right: 40px;
+}
+
+.ttin button {
+  line-height: 40px;
+  border-radius: 20px;
+  border: none;
+  width: 200px;
+}
+
+.ttin button:hover {
+  background-color: orangered;
+}
+
+.tttruong {
+  font-size: large;
+  position: absolute;
+  line-height: 50px;
+  font-weight: bold;
+  left: 30px;
+}
+
+
+
+aside {
+  
+  width: 300px;
+  border-left: 1px gray solid;
+  border-right: 1px gray solid;
+}
+h3 {
+  font-size: 18px;
+  padding: 10px 15px;
+  background: red;
+  color: white;
+  text-shadow: 2px 2px 5px red;
+}
+.menudoc ul {
+  list-style: none;
+}
+.menudoc ul li {
+  padding: 10px 15px;
+  background-color: white;
+  border-top: 1px solid gray;
+  font-weight: bold;
+  font-size: large;
+}
+.menudoc ul li:hover {
+  background: orange;
+}
+
+.menudoc .vd{
+  float: left;
+  position: absolute;
+}
+footer {
+  width: 100%;
+  clear: both;
+  background: red;
+  color: white;
+}
+.ft1 {
+  float: left;
+  width: 400px;
+  margin-bottom: 25px;
+  margin-left: 10px;
+  line-height: 35px;
+}
+footer h3 {
+  padding: 15px;
+  font-size: 20px;
+  
+}
+.ft2{
+ 
+  line-height: 35px;
+  
+}
+
+.ft2a{
+  background-color: white;
+  border-radius: 20px;
+  width: 300px;
+  height: 40px;
+  margin-left: 400px;
+  line-height: 40px;
+  
+}
+
+.ft2a input{
+   width: 200px;      
+  height: 30px;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  background-color: orange;
+ margin: 0px;
+}
+
+.ft2a button{
+  height: 30px;
+  width: 80px;
+  border-radius: 30px;
+  border: none;
+  background-color: orange;
+  outline: none;
+  
+}
+
+.ft3{
+  width: 100%;
+  clear: both;
+  height: 40px;
+  background: violet;
+}
+
+.ft3 p {
+  color: white;
+  font-size: 20px;
+  line-height: 35px;
+  font-variant: small-caps;
+  text-align: center;
+}
+
+article{
+  float: right;
+  padding: auto;
+}
+
+iframe[nampage]{
+  width: 100%;
+  min-height: 500px;
+  float: right;
+}
+
+
+
+
+
+
+

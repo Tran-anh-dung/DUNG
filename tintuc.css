@@ -1,0 +1,73 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    width: 980px;
+
+}
+
+.tintuc {
+    height: 600px;
+    float: left;
+    margin-left: 10px;
+    clear: both;
+    
+ 
+  }
+  
+  .tintuc h1 {
+    text-align: center;
+    height: 60px;
+    background-color: orange;
+    line-height: 60px;
+    color: white;
+  }
+  
+  
+  .tintuc2{
+    float: left;
+    margin-left: 10px;
+  }
+  
+  .anhtt img{
+    width: 95%;
+    
+  }
+  
+  .ttuc >p{
+   width: 300px;
+  }
+  
+  .ttuc .chutin{
+    color: blue;
+    font-weight: bold;
+  }
+
+  .anh2{
+    margin-left: 10px;
+  }
+
+  .anh2 tr td img{
+   width: 350px;
+   height: 250px;
+  }
+
+  .anh2 tr td .chu{
+    color: blue;
+    font-weight: bold;
+  }
+
+  .anh2 tr td p{
+    font-size: 18px;
+  }
+
+  .anh2 .anh23 h1{
+    
+   text-align: center;
+  color: white;
+ clear: both;
+ background-color: orange;
+ height: 60px;
+ line-height: 60px;
+ 
+  }
+  

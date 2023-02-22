@@ -1,0 +1,142 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  width: 980px;
+  
+}
+
+.gt {
+  margin-left: 10px;
+  height: 517px;
+
+  position: relative;
+}
+
+.gt h1 {
+  color: blue;
+
+}
+
+.gt1 {
+  margin-left: 15px;
+  position: absolute;
+  width: 600px;
+  line-height: 25x;
+  font-size: 22px;
+}
+
+.gt2 {
+  float: right;
+  width: 350px;
+  margin-top: 10px;
+}
+
+.gt2 img {
+  border-radius: 20px;
+  box-shadow: 5px 5px solid red;
+  height: 300px;
+  width: 355px;
+}
+
+.ld {
+  background-color: orangered;
+  height: 440px;
+  text-align: center;
+  color: white;
+  margin-left: 10px;
+}
+
+.khung {
+  background-color: white;
+  margin: 10px;
+  width: 250px;
+  float: left;
+  margin-left: 55px;
+  border-radius: 30px;
+}
+
+.khung img {
+  border-radius: 30px;
+  width: 220px;
+  height: 210px;
+  margin: 18px;
+}
+
+.khung>.tengv {
+  font-weight: bold;
+  color: blue;
+  font-size: large;
+}
+
+.khung>.cvi {
+  margin-bottom: 10px;
+  color: black;
+}
+
+.truong {
+  height: 440px;
+  margin-left: 10px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.truong .truongten {
+  color: white;
+  height: 50px;
+  line-height: 50px;
+  background-color: orangered;
+}
+
+.truong1 img {
+  height: 600px;
+  width: 969px;
+}
+
+.truong2 img {
+  float: left;
+  width: 467px;
+  height: 400px;
+  box-shadow: 5px 5px 5px gray;
+}
+
+.truong2 .anh2 {
+  float: right;
+}
+
+.tintuc {
+  height: 500px;
+  float: left;
+  margin-left: 10px;
+  clear: both;
+  
+  position: relative;
+}
+
+.tintuc h1 {
+  text-align: center;
+  height: 60px;
+  background-color: orangered;
+  line-height: 60px;
+  color: blue;
+}
+
+
+.tintuc2{
+  float: left;
+  margin-left: 10px;
+}
+
+.anhtt img{
+  width: 95%;
+  
+}
+
+.ttuc >p{
+ width: 300px;
+}
+
+.ttuc .chutin{
+  color: blue;
+  font-weight: bold;
+}
+
